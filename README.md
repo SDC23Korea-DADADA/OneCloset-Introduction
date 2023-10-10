@@ -1,9 +1,8 @@
 <div align = "center">
 <p align="center">
-  <img src="https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/7691bbc3-d79b-4066-9e7c-c64b83cad33b" alt="app_logo">
+  <img src="https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/7691bbc3-d79b-4066-9e7c-c64b83cad33b" alt="app_logo" width="128">
 </p>
 <h3>One Closet</h3>
-
 </div>
 
 # 🔎 소개
