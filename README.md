@@ -11,7 +11,7 @@
 1. [**기술 스택**](#-기술-스택)
 1. [**협업**](#-협업)
 1. [**시스템 구조도**](#-시스템-구조도)
-1. [**DADADA!**](#-DADADA!)
+1. [**팀 소개**](#-팀-소개)
 
 <div id="1"></div>
 
@@ -55,7 +55,7 @@
 
 <div id="6"></div>
 
-## 🙋🏻 DADADA!
+## 🙋🏻 팀 소개
 | 김동현 | 김주용 | 김소연 | 정수정 | 지민성 | 송찬환 |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | <a href="https://github.com/hhkers"><img src="https://avatars.githubusercontent.com/u/74969432?v=4" alt="" width="100" height="100"></a> | <a href="https://github.com/Kim-JuYong"><img src="https://avatars.githubusercontent.com/u/68934392?v=4" alt="jyo_ong" width="100" height="100"></a> | <a href="https://github.com/soyeonnnb"><img src="https://avatars.githubusercontent.com/u/71217221?v=4" alt="ppeper" width="100" height="100"></a> | <a href="https://github.com/sujeong1201"><img src="https://avatars.githubusercontent.com/u/37768793?v=4" alt="" width="100" height="100"></a> | <a href="https://github.com/minsung37"><img src="https://avatars.githubusercontent.com/u/102503928?v=4" alt="" width="100" height="100"></a> | <a href="https://github.com/cksghks89"><img src="https://avatars.githubusercontent.com/u/23161060?v=4" alt="" width="100" height="100"></a> |
