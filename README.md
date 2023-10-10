@@ -23,8 +23,20 @@ One Closet은 삼성 의류 관리 가전기기 고객들에게 컴퓨터 비전
 
 ## ⏳ 서비스 소개
 #### 의류 관리 코스 기능 
+https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/32ec9603-e51d-481d-921e-c72cc95765d6
+
+
+
+- 의류 이미지에서 재질, 색상, 분류를 추출하고 재질에 따른 삼성 세탁, 건조, 에어드레서 코스를 추천해줍니다.
+- 의류 정보에는 추가 정보를 입력할 수 있고 추가 정보를 바탕으로 한번에 옷을 찾아볼 수 있습니다.
 
 #### 가상 피팅 기능 
+https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/66c3a006-1b8e-40e8-8fc3-9d164c4ba807
+
+
+
+- 모델 이미지에 의류 이미지(상의, 하의, 한벌옷)를 넣어서 가상 피팅한 결과를 받아볼 수 있습니다.
+- 생성된 가상 피팅 결과 이미지를 달력에 등록해 코디 계획으로 등록할 수 있습니다. 
 
 #### 디지털 옷장 
 <img src="https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/0427a4a6-f43d-40bd-b48c-418204c916c3" width="25%"/>
