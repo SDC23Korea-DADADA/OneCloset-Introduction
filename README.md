@@ -72,8 +72,7 @@ https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/66c3
 
 
 ## 📃 협업
-
-<br>
+<img width="512" alt="image" src="https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/17756f31-ba80-4447-9ec5-83e9d3c3bd25">
 
 
 
