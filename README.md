@@ -1,5 +1,5 @@
 <div align = "center">
-<p align="center">![ic_launcher](/uploads/78e2e2695685748c7dbba8c737dfda3d/ic_launcher.png)</p>
+<p align="center">![ic_launcher](![app_logo](https://github.com/SDC23Korea-DADADA/OneCloset-Introduction/assets/68934392/7691bbc3-d79b-4066-9e7c-c64b83cad33b))</p>
 <h3>One Closet</h3>
 
 </div>
